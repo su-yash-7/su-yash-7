@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS.**
 
-- 👨‍💻 All of my projects are available at [https://www.iamsuyash.dev/](iamsuyash.dev)
+- 👨‍💻 All of my projects are available at [iamsuyash.dev](https://www.iamsuyash.dev/)
 
 - 🔭 working on **Problem Solving skills**
 
