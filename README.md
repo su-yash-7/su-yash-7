@@ -2,7 +2,8 @@
 <h3 align="center">A passionate self-taught frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=su-yash-7&label=Profile%20views&color=0e75b6&style=flat" alt="su-yash-7" /> </p>
-<p align="left"> <img src="https://wakatime.com/badge/user/9b820af6-dccd-4506-a5bf-c590558042ea.svg" alt="WakaTime" /> </p>
+<a href="https://wakatime.com/@9b820af6-dccd-4506-a5bf-c590558042ea"><img src="https://wakatime.com/badge/user/9b820af6-dccd-4506-a5bf-c590558042ea.svg" alt="Total time coded since FEB 9 2021" /></a>
+
 
 
 <!-- # 💫About Me : -->
