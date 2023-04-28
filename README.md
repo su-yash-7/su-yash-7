@@ -13,7 +13,6 @@
 💬 Ask me about any tech-related stuff.\
 📫 How to reach me: Email - suyashpradhan7@gmail.com\
 😄 Pronouns: He/His\
-⚡  [iamsuyash.dev](http://iamsuyash.dev)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/su_yash_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suyash-kumar-pradhan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/su_yash_7) 
