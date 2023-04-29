@@ -8,7 +8,7 @@
 
 <!-- # 💫About Me : -->
 🔭 I’m currently working on my Problem Solving Skill.\
-🌱 I’m currently learning more about Web3.\
+🌱 I’m currently learning more about React.js & Next.js with Typescript.\
 🤔 I’m looking for help with Exploring New Technologies.\
 💬 Ask me about any tech-related stuff.\
 📫 How to reach me: Email - suyashpradhan7@gmail.com\
